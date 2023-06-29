@@ -25,7 +25,7 @@ const Main = () => {
           </div>
           <div className='h-100 pl-20 ml-20 '>
             <p className='break-words text-base font-normal leading-8 tracking-normal text-left '>
-              "I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money."
+            &quot;I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money.&quot;
             </p>
           </div>
         </div>
