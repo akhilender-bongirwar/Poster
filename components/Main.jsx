@@ -11,7 +11,7 @@ const Main = () => {
         <div className='flex flex-col md:w-[50%]'>
           <div className='w-373 h-123 flex gap-3 pl-20'>
             <Image
-              src="/p1.png"
+              src="/images/p1.png"
               width={80}
               height={80}
               className='rounded-full'
@@ -31,13 +31,13 @@ const Main = () => {
         </div>
         <div className='flex relative top-[-70px] pl-10'>
           <Image
-            src="/arrow.svg"
+            src="/images/arrow.svg"
             width={20}
             height={40}
             alt='arrow'
           />
           <Image
-            src="/11.png"
+            src="/images/11.png"
             width={380}
             height={100}
             className=''

@@ -8,7 +8,7 @@ const Header = () => {
       <p className='text-lg md:text-2xl font-light leading-9 tracking-normal text-center'>Wealthup is backed and supported by</p>
       <div className='flex items-center justify-center gap-3 p-5'>
         <Image
-          src="/13.png"
+          src="/images/13.png"
           width={700}
           height={300}
           alt='tag-1'
